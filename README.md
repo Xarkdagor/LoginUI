@@ -1,17 +1,16 @@
-# auth_screen
+# LoginUI: A Flutter UI Kit for Effortless Authentication
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+LoginUI is a Flutter package that simplifies the creation of beautiful and user-friendly authentication screens for your mobile and web applications.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Pre-built Screens:** Login screens out of the box.
+* **Customizable Widgets:** Easily tailor the appearance of buttons, text fields, and more to match your branding.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# LoginUI
+
+* **Responsive Design:** Adapts to various screen sizes and devices.
+
+## Screenshots
+![LoginUI](https://github.com/Xarkdagor/LoginUI/assets/110737967/f9c5abcf-bca4-49ed-9cd9-afb1da0ebbb9)
